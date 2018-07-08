@@ -1,0 +1,19 @@
+{
+  "name": "palms",
+  "version": "1.0.0",
+  "description": "testing auto update for electron",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaytalium/palms.git"
+  },
+  "author": "Ovel Heslop",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaytalium/palms/issues"
+  },
+  "homepage": "https://github.com/kaytalium/palms#readme"
+}
